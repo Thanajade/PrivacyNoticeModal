@@ -1,0 +1,2 @@
+# PrivacyNoticeModal
+Created with CodeSandbox
