@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #000;
+  background-color: #e4e9f0;
+  font-weight: bold;
+  border-left: #000;
+  border-left-style: solid;
+}
+
+.nav-item > a {
+  color: #000;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.custom-link {
+  display: block;
+  padding: 0.5rem 1rem;
+}
